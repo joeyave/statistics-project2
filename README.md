@@ -1,1 +1,0 @@
-# statistics-project2
